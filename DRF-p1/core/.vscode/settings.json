@@ -1,0 +1,15 @@
+{
+    "python.defaultInterpreterPath": "/home/emir/Desktop/projects/tenv/bin/python3",
+    "python.analysis.extraPaths": [
+        "/home/emir/Desktop/projects/tenv/lib/python3.13/site-packages"
+    ],
+    "python.analysis.indexing": true,
+    "python.analysis.packageIndexDepths": [
+        {
+            "name": "rest_framework",
+            "depth": 5,
+            "includeAllSymbols": true
+        }
+    ],
+    "python-envs.pythonProjects": []
+}
